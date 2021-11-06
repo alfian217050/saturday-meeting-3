@@ -1,4 +1,0 @@
-1. Rumus Nama Tanaman:=IF(B8="AD";"ADENIUM";IF(B8="KL";"KELADI";IF(B8="AG";"AGLONEMA")))
-2. Rumus Harga:=IF(B8="AD";"150000";IF(B8="KL";"100000";IF(B8="AG";"250000")))
-3. Rumus total harga:=(D8*E8)
-4. rumus potongan harga:=IF(B8="AD";"10%";IF(B8="AG";"5%";0))
